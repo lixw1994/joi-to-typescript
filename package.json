@@ -1,8 +1,8 @@
 {
-  "name": "joi-to-typescript",
+  "name": "joi-schema-to-interface",
   "description": "Convert Joi Schemas to TypeScript interfaces",
-  "version": "2.2.1",
-  "author": "Jono Clarnette",
+  "version": "2.2.2",
+  "author": "lixw",
   "keywords": [
     "joi",
     "ts",
